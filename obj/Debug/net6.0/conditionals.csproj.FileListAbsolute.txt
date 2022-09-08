@@ -1,0 +1,15 @@
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/bin/Debug/net6.0/conditionals
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/bin/Debug/net6.0/conditionals.deps.json
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/bin/Debug/net6.0/conditionals.runtimeconfig.json
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/bin/Debug/net6.0/conditionals.dll
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/bin/Debug/net6.0/conditionals.pdb
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/conditionals.csproj.AssemblyReference.cache
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/conditionals.AssemblyInfoInputs.cache
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/conditionals.AssemblyInfo.cs
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/conditionals.csproj.CoreCompileInputs.cache
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/conditionals.dll
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/refint/conditionals.dll
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/conditionals.pdb
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/conditionals.genruntimeconfig.cache
+/Users/pingpinglai/deveplopment/codeacademy/C#-learning/conditionals/obj/Debug/net6.0/ref/conditionals.dll
